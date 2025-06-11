@@ -1,0 +1,1 @@
+# oop244-workshop-6-class-with-a-resource-solved
